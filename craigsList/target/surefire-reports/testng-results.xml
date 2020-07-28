@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="27" passed="11" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Verified Test - City Is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="c:\pic.jpg">Login Screen link</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="c:\pic.jpg"><img src="c:\pic.jpg"></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-07-28T05:35:14 CDT" name="Command line suite" finished-at="2020-07-28T05:36:21 CDT" duration-ms="67874">
+    <groups>
+    </groups>
+    <test started-at="2020-07-28T05:35:14 CDT" name="Command line test" finished-at="2020-07-28T05:36:21 CDT" duration-ms="67874">
+      <class name="testCases.Test_Verify_Event_Calender">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Verify_Event_Calender@49c66ade]" started-at="2020-07-28T05:36:18 CDT" name="login" finished-at="2020-07-28T05:36:21 CDT" duration-ms="2712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Verify_event_calendar_link_is_displayed()[pri:1, instance:testCases.Test_Verify_Event_Calender@49c66ade]" started-at="2020-07-28T05:36:21 CDT" name="Verify_event_calendar_link_is_displayed" finished-at="2020-07-28T05:36:21 CDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_event_calendar_link_is_displayed -->
+        <test-method signature="event_calendar_is_Clickable()[pri:2, instance:testCases.Test_Verify_Event_Calender@49c66ade]" started-at="2020-07-28T05:36:21 CDT" name="event_calendar_is_Clickable" finished-at="2020-07-28T05:36:21 CDT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- event_calendar_is_Clickable -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Verify_Event_Calender@49c66ade]" started-at="2020-07-28T05:36:21 CDT" name="logout" finished-at="2020-07-28T05:36:21 CDT" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Verify_Event_Calender -->
+      <class name="testCases.Test_Gallery_Menu">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Gallery_Menu@74bf1791]" started-at="2020-07-28T05:35:28 CDT" name="login" finished-at="2020-07-28T05:35:30 CDT" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Gallery_Menu()[pri:0, instance:testCases.Test_Gallery_Menu@74bf1791]" started-at="2020-07-28T05:35:31 CDT" name="Gallery_Menu" finished-at="2020-07-28T05:35:32 CDT" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gallery_Menu -->
+        <test-method signature="gallery()[pri:0, instance:testCases.Test_Gallery_Menu@74bf1791]" started-at="2020-07-28T05:35:32 CDT" name="gallery" finished-at="2020-07-28T05:35:32 CDT" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gallery -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Gallery_Menu@74bf1791]" started-at="2020-07-28T05:35:32 CDT" name="logout" finished-at="2020-07-28T05:35:33 CDT" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Gallery_Menu -->
+      <class name="testCases.Test_Save_Search_Properly">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Save_Search_Properly@1339e7aa]" started-at="2020-07-28T05:36:07 CDT" name="login" finished-at="2020-07-28T05:36:10 CDT" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Save_Search_IsDisplayed()[pri:0, instance:testCases.Test_Save_Search_Properly@1339e7aa]" started-at="2020-07-28T05:36:10 CDT" name="Save_Search_IsDisplayed" finished-at="2020-07-28T05:36:14 CDT" duration-ms="3678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Save_Search_IsDisplayed -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Save_Search_Properly@1339e7aa]" started-at="2020-07-28T05:36:14 CDT" name="logout" finished-at="2020-07-28T05:36:14 CDT" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Save_Search_Properly -->
+      <class name="testCases.Test_Count_All_The_Search_List_Item">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Count_All_The_Search_List_Item@19c65cdc]" started-at="2020-07-28T05:35:22 CDT" name="login" finished-at="2020-07-28T05:35:25 CDT" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Count_All_The_Search_List_Item()[pri:0, instance:testCases.Test_Count_All_The_Search_List_Item@19c65cdc]" started-at="2020-07-28T05:35:25 CDT" name="Count_All_The_Search_List_Item" finished-at="2020-07-28T05:35:26 CDT" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Count_All_The_Search_List_Item -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Count_All_The_Search_List_Item@19c65cdc]" started-at="2020-07-28T05:35:26 CDT" name="logout" finished-at="2020-07-28T05:35:28 CDT" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Count_All_The_Search_List_Item -->
+      <class name="testCases.Test_City_IsDisplayed">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:35:10 CDT" name="setup" finished-at="2020-07-28T05:35:14 CDT" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:35:14 CDT" name="login" finished-at="2020-07-28T05:35:18 CDT" duration-ms="4848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyTest_City_IsDisplayed()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:35:18 CDT" name="verifyTest_City_IsDisplayed" finished-at="2020-07-28T05:35:21 CDT" duration-ms="2447" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verified Test - City Is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="c:\pic.jpg">Login Screen link</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="c:\pic.jpg"><img src="c:\pic.jpg"></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTest_City_IsDisplayed -->
+        <test-method signature="verify_test_city_isEnabled_in_the_search_filter_page()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:35:21 CDT" name="verify_test_city_isEnabled_in_the_search_filter_page" finished-at="2020-07-28T05:35:21 CDT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_test_city_isEnabled_in_the_search_filter_page -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:35:21 CDT" name="logout" finished-at="2020-07-28T05:35:22 CDT" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDowm()[pri:0, instance:testCases.Test_City_IsDisplayed@327bcebd]" started-at="2020-07-28T05:36:22 CDT" name="tearDowm" finished-at="2020-07-28T05:36:22 CDT" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowm -->
+      </class> <!-- testCases.Test_City_IsDisplayed -->
+      <class name="testCases.Test_Newest_Menu_Contains">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Newest_Menu_Contains@38b27cdc]" started-at="2020-07-28T05:36:03 CDT" name="login" finished-at="2020-07-28T05:36:05 CDT" duration-ms="2828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Newest_Menu_Contains()[pri:0, instance:testCases.Test_Newest_Menu_Contains@38b27cdc]" started-at="2020-07-28T05:36:05 CDT" name="Newest_Menu_Contains" finished-at="2020-07-28T05:36:07 CDT" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Newest_Menu_Contains -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Newest_Menu_Contains@38b27cdc]" started-at="2020-07-28T05:36:07 CDT" name="logout" finished-at="2020-07-28T05:36:07 CDT" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Newest_Menu_Contains -->
+      <class name="testCases.Test_Verfi_See">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Verfi_See@1fb669c3]" started-at="2020-07-28T05:36:14 CDT" name="login" finished-at="2020-07-28T05:36:17 CDT" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="link()[pri:0, instance:testCases.Test_Verfi_See@1fb669c3]" started-at="2020-07-28T05:36:17 CDT" name="link" finished-at="2020-07-28T05:36:17 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Verfi_See@1fb669c3]" started-at="2020-07-28T05:36:17 CDT" name="logout" finished-at="2020-07-28T05:36:18 CDT" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Verfi_See -->
+      <class name="testCases.Test_Language_Change_E2E">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Language_Change_E2E@54504ecd]" started-at="2020-07-28T05:35:33 CDT" name="login" finished-at="2020-07-28T05:35:36 CDT" duration-ms="2709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Language_Change()[pri:0, instance:testCases.Test_Language_Change_E2E@54504ecd]" started-at="2020-07-28T05:35:36 CDT" name="Language_Change" finished-at="2020-07-28T05:36:02 CDT" duration-ms="26047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Language_Change -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Language_Change_E2E@54504ecd]" started-at="2020-07-28T05:36:02 CDT" name="logout" finished-at="2020-07-28T05:36:03 CDT" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Test_Language_Change_E2E -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

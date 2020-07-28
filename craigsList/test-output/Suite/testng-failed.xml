@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.Test_Next_And_Previous_Button">
+        <methods>
+          <include name="Next_And_Previous_Button"/>
+        </methods>
+      </class> <!-- testCases.Test_Next_And_Previous_Button -->
+      <class name="testCases.Test_Count_All_The_Search_List_Item">
+        <methods>
+          <include name="Count_All_The_Search_List_Item"/>
+        </methods>
+      </class> <!-- testCases.Test_Count_All_The_Search_List_Item -->
+      <class name="testCases.Test_Newest_Menu_Contains">
+        <methods>
+          <include name="Newest_Menu_Contains"/>
+        </methods>
+      </class> <!-- testCases.Test_Newest_Menu_Contains -->
+      <class name="testCases.Test_Searched_Item_Title_Bar">
+        <methods>
+          <include name="Searched_Item"/>
+        </methods>
+      </class> <!-- testCases.Test_Searched_Item_Title_Bar -->
+      <class name="testCases.Test_Search_Results_Pagegination">
+        <methods>
+          <include name="previous_Button_isEnabled"/>
+          <include name="Search_Results_Pagegination_IsDisplayed"/>
+          <include name="next_boutton_IsDisplayed"/>
+          <include name="previous_Button_IsDisplayed"/>
+          <include name="next_boutton_Enabled"/>
+        </methods>
+      </class> <!-- testCases.Test_Search_Results_Pagegination -->
+      <class name="testCases.Test_Language_Change_E2E">
+        <methods>
+          <include name="Language_Change"/>
+        </methods>
+      </class> <!-- testCases.Test_Language_Change_E2E -->
+      <class name="testCases.Test_Map_Displayed">
+        <methods>
+          <include name="Map_Displayed"/>
+        </methods>
+      </class> <!-- testCases.Test_Map_Displayed -->
+      <class name="testCases.Test_CL_Worlwide_Is_Displayed">
+        <methods>
+          <include name="verify_CL_Worlwide_Is_Displayed"/>
+          <include name="center"/>
+        </methods>
+      </class> <!-- testCases.Test_CL_Worlwide_Is_Displayed -->
+      <class name="testCases.Test_Verify_All_Links">
+        <methods>
+          <include name="verify_all__links_of_the_page"/>
+        </methods>
+      </class> <!-- testCases.Test_Verify_All_Links -->
+      <class name="testCases.Test_Verify_Event_Calender">
+        <methods>
+          <include name="Verify_event_calendar_link_is_displayed"/>
+          <include name="event_calendar_is_Clickable"/>
+        </methods>
+      </class> <!-- testCases.Test_Verify_Event_Calender -->
+      <class name="testCases.Test_Gallery_Menu">
+        <methods>
+          <include name="Gallery_Menu"/>
+          <include name="gallery"/>
+        </methods>
+      </class> <!-- testCases.Test_Gallery_Menu -->
+      <class name="testCases.Test_Sum_All_The_search_List_Price">
+        <methods>
+          <include name="Sum_all_the_list_prices"/>
+        </methods>
+      </class> <!-- testCases.Test_Sum_All_The_search_List_Price -->
+      <class name="testCases.Test_HomePage_E2E">
+        <methods>
+          <include name="home_page_Status"/>
+        </methods>
+      </class> <!-- testCases.Test_HomePage_E2E -->
+      <class name="testCases.Test_Save_Search_Properly">
+        <methods>
+          <include name="Save_Search_IsDisplayed"/>
+        </methods>
+      </class> <!-- testCases.Test_Save_Search_Properly -->
+      <class name="testCases.Test_City_IsDisplayed">
+        <methods>
+          <include name="verifyTest_City_IsDisplayed"/>
+          <include name="verifyTest_City_IsEnabled"/>
+        </methods>
+      </class> <!-- testCases.Test_City_IsDisplayed -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

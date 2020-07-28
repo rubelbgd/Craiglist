@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCases.Test_Newest_Menu_Contains"/>
+      <class name="testCases.Test_Gallery_Menu"/>
+      <class name="testCases.Test_Verify_Event_Calender"/>
+      <class name="testCases.Test_Count_All_The_Search_List_Item"/>
+      <class name="testCases.Test_Verfi_See"/>
+      <class name="testCases.Test_Save_Search_Properly"/>
+      <class name="testCases.Test_City_IsDisplayed"/>
+      <class name="testCases.Test_Language_Change_E2E"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

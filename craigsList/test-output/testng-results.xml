@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-28T05:29:05 CDT" name="Default suite" finished-at="2020-07-28T05:29:19 CDT" duration-ms="14442">
+    <groups>
+    </groups>
+    <test started-at="2020-07-28T05:29:05 CDT" name="Default test" finished-at="2020-07-28T05:29:19 CDT" duration-ms="14442">
+      <class name="testCases.Test_Sum_All_The_search_List_Price">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Test_Sum_All_The_search_List_Price@16fdec90]" started-at="2020-07-28T05:29:01 CDT" name="setup" finished-at="2020-07-28T05:29:05 CDT" duration-ms="3645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.Test_Sum_All_The_search_List_Price@16fdec90]" started-at="2020-07-28T05:29:05 CDT" name="login" finished-at="2020-07-28T05:29:11 CDT" duration-ms="5774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Sum_all_the_list_prices()[pri:0, instance:testCases.Test_Sum_All_The_search_List_Price@16fdec90]" started-at="2020-07-28T05:29:11 CDT" name="Sum_all_the_list_prices" finished-at="2020-07-28T05:29:18 CDT" duration-ms="7646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum_all_the_list_prices -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Test_Sum_All_The_search_List_Price@16fdec90]" started-at="2020-07-28T05:29:18 CDT" name="logout" finished-at="2020-07-28T05:29:19 CDT" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDowm()[pri:0, instance:testCases.Test_Sum_All_The_search_List_Price@16fdec90]" started-at="2020-07-28T05:29:19 CDT" name="tearDowm" finished-at="2020-07-28T05:29:20 CDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowm -->
+      </class> <!-- testCases.Test_Sum_All_The_search_List_Price -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
